@@ -1,0 +1,30 @@
+[
+  {
+    "id": "writer",
+    "name": "wordcraft",
+    "version": "0.18.1",
+    "sha256": "3daa7c2d1f209a7eeb2527fcefa3fe31e875848fb1970d68f54edae55fe0bc9f",
+    "url": "https://github.com/storytold/wordcraft/releases/download/v0.18.1/wordcraft-web-0.18.1.zip"
+  },
+  {
+    "id": "sheets",
+    "name": "gridcraft",
+    "version": "0.19.1",
+    "sha256": "48c5d1b101befebb3c5ba3b7a14914f01c3207934813ed07dc4251b7ae116a78",
+    "url": "https://github.com/storytold/gridcraft/releases/download/v0.19.1/gridcraft-web-0.19.1.zip"
+  },
+  {
+    "id": "slides",
+    "name": "deckcraft",
+    "version": "0.18.1",
+    "sha256": "3196e537fcfab538aaa2e88584bc74e29bb584459b916ab584ac22fbafe32db5",
+    "url": "https://github.com/storytold/deckcraft/releases/download/v0.18.1/deckcraft-web-0.18.1.zip"
+  },
+  {
+    "id": "pdf",
+    "name": "pdfcraft",
+    "version": "0.22.0",
+    "sha256": "5da6db0d6d0d5ae517e9bb62c39eb57285f8befd81ef6555e9a807ccf5da5954",
+    "url": "https://github.com/storytold/pdfcraft/releases/download/v0.22.0/pdfcraft-web-0.22.0.zip"
+  }
+]

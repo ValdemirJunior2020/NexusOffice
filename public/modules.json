@@ -2,22 +2,22 @@
   {
     "id": "writer",
     "name": "NexusWriter",
-    "description": "Create formatted documents",
-    "engine": "Native browser editor",
+    "description": "Open and edit Word files",
+    "engine": "Wordcraft 0.18.1",
     "ready": true
   },
   {
     "id": "sheets",
     "name": "NexusSheets",
-    "description": "Edit spreadsheets and formulas",
-    "engine": "Native browser editor",
+    "description": "Open and edit Excel workbooks",
+    "engine": "Gridcraft 0.19.1",
     "ready": true
   },
   {
     "id": "slides",
     "name": "NexusSlides",
-    "description": "Create slide presentations",
-    "engine": "Native browser editor",
+    "description": "Open and edit PowerPoint files",
+    "engine": "Deckcraft 0.18.1",
     "ready": true
   },
   {
@@ -30,9 +30,9 @@
   {
     "id": "pdf",
     "name": "NexusPDF",
-    "description": "PDF utilities",
-    "engine": "PDF engine pending",
-    "ready": false
+    "description": "Open and edit PDF files",
+    "engine": "Pdfcraft 0.22.0",
+    "ready": true
   },
   {
     "id": "drive",

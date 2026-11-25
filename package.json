@@ -1,11 +1,12 @@
 {
   "name": "nexusoffice",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "setup:craft": "node scripts/install-craft.mjs"
   },
   "engines": {
     "node": ">=20"
