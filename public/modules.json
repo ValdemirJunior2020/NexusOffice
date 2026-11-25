@@ -2,23 +2,23 @@
   {
     "id": "writer",
     "name": "NexusWriter",
-    "description": "Create Word documents",
-    "engine": "ElixirOffice",
-    "ready": false
+    "description": "Create formatted documents",
+    "engine": "Native browser editor",
+    "ready": true
   },
   {
     "id": "sheets",
     "name": "NexusSheets",
-    "description": "Edit spreadsheets",
-    "engine": "ElixirOffice",
-    "ready": false
+    "description": "Edit spreadsheets and formulas",
+    "engine": "Native browser editor",
+    "ready": true
   },
   {
     "id": "slides",
     "name": "NexusSlides",
-    "description": "Create presentations",
-    "engine": "ElixirOffice",
-    "ready": false
+    "description": "Create slide presentations",
+    "engine": "Native browser editor",
+    "ready": true
   },
   {
     "id": "sign",
