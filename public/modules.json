@@ -1,0 +1,86 @@
+[
+  {
+    "id": "writer",
+    "name": "NexusWriter",
+    "description": "Create Word documents",
+    "engine": "ElixirOffice",
+    "ready": false
+  },
+  {
+    "id": "sheets",
+    "name": "NexusSheets",
+    "description": "Edit spreadsheets",
+    "engine": "ElixirOffice",
+    "ready": false
+  },
+  {
+    "id": "slides",
+    "name": "NexusSlides",
+    "description": "Create presentations",
+    "engine": "ElixirOffice",
+    "ready": false
+  },
+  {
+    "id": "sign",
+    "name": "NexusSign",
+    "description": "Electronic signatures",
+    "engine": "SignuDoc",
+    "ready": false
+  },
+  {
+    "id": "pdf",
+    "name": "NexusPDF",
+    "description": "PDF utilities",
+    "engine": "PDF engine pending",
+    "ready": false
+  },
+  {
+    "id": "drive",
+    "name": "NexusDrive",
+    "description": "Private file storage",
+    "engine": "Google Drive",
+    "ready": false
+  },
+  {
+    "id": "notes",
+    "name": "NexusNotes",
+    "description": "Write and save notes",
+    "engine": "Local preview",
+    "ready": true
+  },
+  {
+    "id": "tasks",
+    "name": "NexusTasks",
+    "description": "Track assignments",
+    "engine": "Local preview",
+    "ready": true
+  },
+  {
+    "id": "forms",
+    "name": "NexusForms",
+    "description": "Create questionnaires",
+    "engine": "Pending",
+    "ready": false
+  },
+  {
+    "id": "convert",
+    "name": "NexusConvert",
+    "description": "Convert files",
+    "engine": "Pending",
+    "ready": false
+  },
+  {
+    "id": "calendar",
+    "name": "NexusCalendar",
+    "description": "Plan appointments",
+    "engine": "Local preview",
+    "ready": true
+  },
+  {
+    "id": "contacts",
+    "name": "NexusContacts",
+    "description": "Manage contacts",
+    "engine": "Local preview",
+    "ready": true
+  }
+]
