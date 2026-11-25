@@ -2,7 +2,7 @@
 
 One workspace. Endless possibilities.
 
-Run `npm test` then `npm start` with Node.js 20+. Open http://127.0.0.1:8788. Windows: START-LOCAL.bat. No dependencies, AI, paid APIs or cloud calls are needed for this preview. Notes, Tasks, Contacts and Calendar use local browser storage; no authentication or cloud sync. Other modules are clearly marked pending. Never enter sensitive data in this preview.
+Run `npm test` then `npm start` with Node.js 20+. Open http://127.0.0.1:8795. Windows: START-LOCAL.bat. Override the port in PowerShell with `$env:PORT='8796'` before running `npm start`. No dependencies, AI, paid APIs or cloud calls are needed for this preview. Notes, Tasks, Contacts and Calendar use local browser storage; no authentication or cloud sync. Other modules are clearly marked pending. Never enter sensitive data in this preview.
 
 ## Integration roadmap
 - SignuDoc: https://github.com/NYLLON-SOFTWARE/SignuDoc (MIT). Preserve notices and authoritative signature records in a transactional database. No signature engine integrated yet.
